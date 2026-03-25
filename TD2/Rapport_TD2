@@ -4,7 +4,10 @@
 
 ### 1. [Explication de mes choix pour le CSS]
 
-[]
+[Dans mon CSS, j’ai préfrée utiliser une structure simple et claire. J'ai utilisée le Grid pour organiser le site en sections. Cela a été assez compliqué
+c'est pour cela que le site est vraiment simple. J'ai aussi utilisée le @media queries pour que le site soit
+lisible sur ordinateur comme sur smartphone. Aussi, je n'ai pas fait un texte trop grand pour la lisibilité. J'ai utilisée des couleurs que j'aime. 
+Enfin, j’ai utilisé rem pour une accessibilité et une flexibilité maximale.]
  
 ## Utilisation de l'IA
 
@@ -20,6 +23,11 @@ que vous avez dû corriger vous-même.]
 
 ### Prompts significatifs
 
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
+1. "[Peux-tu m'expliquer comment utiliser grid]" → [CSS Grid = système pour faire des colonnes ET des lignes
+
+Tu transformes un conteneur en grille avec :
+
+.container {
+  display: grid;
+}/ Cela m'a été utile pour comprendre la forme et ensuite j'ai fais le jeu ce qui a été encore plus simple].
+
